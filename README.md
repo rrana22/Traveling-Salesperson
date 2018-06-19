@@ -1,6 +1,6 @@
 # Traveling-Salesperson
 
-A project done for CSCI 335 
+A project done for CSCI 335 in 2016
 
 - The functions for the greedy algorithm are stored in 'GreedyTSP.cpp'
 - The functions for the nearest insertion algorithm are stored in 'NearestInsertion.cpp'
